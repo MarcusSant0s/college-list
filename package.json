@@ -1,7 +1,8 @@
 {
   "name": "college-list",
+  "home-page": "https://neves-gustavo.github.io/college-list/",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "start": "react-script start",
